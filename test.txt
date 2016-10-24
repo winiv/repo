@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is EAAA-13BD
+
+ Directory of D:\Mygitproject
+
+10/24/2016  08:06 PM    <DIR>          .
+10/24/2016  08:06 PM    <DIR>          ..
+10/24/2016  08:06 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  58,810,200,064 bytes free
